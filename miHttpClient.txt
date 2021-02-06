@@ -1,0 +1,13 @@
+Metodo: GET
+
+HTTP/1.1 200 OK
+Header: Date Value: Sat, 06 Feb 2021 13:04:10 GMT
+Header: Expires Value: -1
+Header: Cache-Control Value: private, max-age=0
+Header: Content-Type Value: text/html; charset=ISO-8859-1
+Header: P3P Value: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Header: Server Value: gws
+Header: X-XSS-Protection Value: 0
+Header: X-Frame-Options Value: SAMEORIGIN
+Header: Set-Cookie Value: 1P_JAR=2021-02-06-13; expires=Mon, 08-Mar-2021 13:04:10 GMT; path=/; domain=.google.com; Secure
+Header: Set-Cookie Value: NID=208=TMI-9DcMlFDr8TAMzmqJTHOqrSC43SCuH2oq6NNI5ABT54ec6DZBSMxDhXKcTpnT5ljzNqujpn1GMeH9lCSvJsVJicAmoKimKG4WJA_NpWIIkEYQwhbDGxGhHr0Xnqf2J-UXYUKi2wAFYBtGMzB6lCrADrOm1fLeTlvARlhlmQE; expires=Sun, 08-Aug-2021 13:04:10 GMT; path=/; domain=.google.com; HttpOnly
